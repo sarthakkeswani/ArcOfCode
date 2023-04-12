@@ -1,0 +1,33 @@
+.logo{
+    width: 70%;
+}
+
+.image-width{
+    width: 5%;
+}
+
+.profile {
+    margin-left: 60%;
+}
+
+.wd{
+    width: 100%;
+}
+
+.language{
+    margin-top: 2%;
+    padding: 5%;
+    
+    
+}
+
+.btn{
+    margin-left: 5%;
+}
+
+#language ul{
+    text-decoration: none;
+    list-style: none;
+    display: inline-flex;
+   
+}
