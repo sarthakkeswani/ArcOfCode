@@ -1,0 +1,30 @@
+.displayWidth {
+  background-color: #d6e6f2;
+  /* width: 90%; */
+  /* color:white; */
+  /* margin: 10px 10px 10px 50px; */
+  padding: 5px;
+  font-weight: 600;
+}
+
+.content .nav-item a {
+  color: #000;
+}
+
+.content .nav-item a:hover {
+   color: #1E56A0;
+ }
+ 
+
+.disp-flex .nav-item a {
+  color: #000;
+}
+
+.disp-flex .nav-item a:hover {
+  color: #1E56A0;
+}
+
+.navbar-nav .nav-item .content-active {
+   color: #1E56A0;
+
+}
