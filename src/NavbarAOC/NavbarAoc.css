@@ -1,0 +1,23 @@
+#mainNav {
+    background-color: #1E56A0;
+    color: white !important;
+    font-weight: 600;
+}
+
+#mainNav .nav-item a {
+    color: #F6F6F6 !important;
+}
+
+#mainNav .nav-item a:hover {
+    color: #D6E4F0 !important;
+}
+
+#mainNav .container-fluid a {
+    color: #F6F6F6 !important;
+}
+
+#mainNav .nav-item .active {
+    color: #D6E4F0 !important;
+}
+
+

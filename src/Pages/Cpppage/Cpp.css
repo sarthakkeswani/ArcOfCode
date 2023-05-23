@@ -1,0 +1,44 @@
+.pageCpp-box{
+    padding: 8px 15px ;
+    /* border: 1px solid black; */
+    border-radius: 2px;
+    margin: 20px 30px;
+}
+.lang-back{
+    background-color:rgb(142, 213, 251);
+    /* width: 90%; */
+    /* color:brown; */
+    margin: 10px 10px 10px 50px;
+}
+.cpp-box{
+    min-width: 30px;
+    padding: 5px 15px ;
+    margin: 3px 10px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.syknotop .syllabus-box{
+    margin-left: 10px;
+    border: 1px solid grey;
+    padding: 8px 10px;
+    min-height:450px;
+    min-width: 150px;
+    border-collapse: collapse;
+}
+.syknotop .overView-box{
+    /* margin-left:20px ; */
+    border: 1px solid grey;
+    min-width: 500px;
+    padding: 12px 20px ;
+    border-collapse: collapse;
+}
+.syknotop{
+    margin-top: 15px;
+}
+.syllabus-box .syllborbox{
+    /* min-width: 30px; */
+    padding: 12px 20px ;
+    /* margin: 3px 10px; */
+    border: 1px solid grey;
+    border-radius: 30px;
+}
